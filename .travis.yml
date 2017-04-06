@@ -22,4 +22,4 @@ after_success:
   - bash <(curl -s https://codecov.io/bash)
 
 notifications:
-  slack: conference-chat:C97bIbUp82Anz9uoMTiXgM3Z
+  slack: conference-chat:wD8Kfv15ZCDAIObpBgit1BhE
